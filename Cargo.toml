@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "bf-rest",
+    "bf-grpc",
+    "bf-gql",
+    "bf-core",
+    "bf-utils",
+    "bf-cli",
+    "bf-dbs",
+    "bf-soap"
+]
